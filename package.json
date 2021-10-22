@@ -1,0 +1,34 @@
+{
+  "name": "ethcrud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseRamirezAyala/ethcrud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseRamirezAyala/ethcrud/issues"
+  },
+  "homepage": "https://github.com/JoseRamirezAyala/ethcrud#readme",
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "@truffle/hdwallet-provider": "^1.5.1",
+    "npm": "^8.1.0",
+    "truffle": "^5.4.15",
+    "truffle-ledger-provider": "^1.0.3"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "truffle-plugin-verify": "^0.5.15"
+  }
+}
