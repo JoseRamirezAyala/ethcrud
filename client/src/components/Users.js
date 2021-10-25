@@ -54,7 +54,6 @@ export default function Users({ users, updateAccountType, deleteUser }) {
       }
       setShowAlert(true);
     }
-    setShowAlert(true);
     setShow(false)
     setAccountType(undefined);
     setLoading(false);
