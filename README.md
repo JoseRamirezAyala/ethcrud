@@ -1,5 +1,5 @@
 # ethcrud
-Crud project using ERC20 smart contracts.
+Crud project using ethereum smart contracts.
 
 
 How to run in local:
